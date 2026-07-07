@@ -108,41 +108,8 @@ I'm a passionate Computer Science student who enjoys building real-world softwar
 
 ---
 
-# 🤖 AI & Machine Learning
 
-<p>
 
-<img src="https://img.shields.io/badge/BERT-blue?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/NLTK-green?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow"/>
-
-<img src="https://img.shields.io/badge/Machine%20Learning-red?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/NLP-purple?style=for-the-badge"/>
-
-</p>
-
----
-
-# 🛠 Tools & Platforms
-
-<p>
-
-<img src="https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git"/>
-
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
-
-<img src="https://img.shields.io/badge/VS%20Code-blue?style=for-the-badge&logo=visualstudiocode"/>
-
-<img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql"/>
-
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva"/>
-
-</p>
-
----
 
 # 📚 Coursework
 
@@ -180,63 +147,10 @@ I'm a passionate Computer Science student who enjoys building real-world softwar
 
 </p>
 
----
 
-# 📊 GitHub Statistics
 
-<p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark"/>
 
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=github-dark"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=darkhub&row=1&column=7"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-dark"/>
-
-</p>
-
----
-
-# 👀 Profile Views
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=blue&style=for-the-badge"/>
-
-</p>
-
----
 
 # 💡 Quote
 
@@ -246,4 +160,3 @@ I'm a passionate Computer Science student who enjoys building real-world softwar
 
 ### ⭐ Thanks for visiting my profile!
 
-If you like my work, consider giving a ⭐ to my repositories.
